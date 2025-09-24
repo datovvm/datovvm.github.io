@@ -1,4 +1,5 @@
 title: My Blog
 description: My personal blog using Jekyll on GitHub Pages
-url: "https://datovvm.github.io/"
+url: "https://datovvm.github.io"
 theme: jekyll-theme-cayman
+
